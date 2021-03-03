@@ -1,0 +1,2 @@
+# Snaplibs
+Libraries for Snap!
